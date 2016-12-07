@@ -1,2 +1,2 @@
-# dijsktra
-dijsktra algorithm in java
+# dijkstra
+dijkstra algorithm in java
