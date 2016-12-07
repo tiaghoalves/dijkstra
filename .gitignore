@@ -1,0 +1,11 @@
+.classpath
+.DS_Store?
+.project
+.settings
+bin
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
